@@ -1,0 +1,4 @@
+---
+- hosts: ansiblelibtest
+  roles:
+    - { role: ansible-lib }
